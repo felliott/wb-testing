@@ -1,0 +1,5 @@
+{
+    "action": "copy",
+    "conflict": "replace",
+    "path": "/moveto/"
+}
