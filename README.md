@@ -1,1 +1,0 @@
-THIS is a readme for  a thing so frightful, it must not be spoken of.
