@@ -1,0 +1,6 @@
+{
+    "action": "copy",
+    "conflict": "replace",
+    "path": "/",
+    "provider": "github"
+}
