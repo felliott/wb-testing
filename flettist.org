@@ -1,5 +1,0 @@
-{
-    "action": "rename",
-    "rename": "bplaa-n.txt",
-    "path": "/"
-}
