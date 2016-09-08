@@ -1,9 +1,0 @@
-Fitz updated this file on 2015-12-11 to test date modified & date created.
-
-*EDIT*: Now I'm dropping some debugging innit.
-
-*EDIT*: Didn't work, adding pprint to WB
-
-*EDIT*: Getting closer, printing lurbal?
-
-*EDIT*: Found view/create_child
