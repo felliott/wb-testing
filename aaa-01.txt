@@ -1,1 +1,5 @@
-fesnabbaurnm
+{
+	"action": "copy",
+	"path": "/",
+	"conflict": "replace"
+}
